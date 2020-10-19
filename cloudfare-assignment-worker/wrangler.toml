@@ -1,0 +1,7 @@
+name = "hello"
+type = "webpack"
+account_id = "58fc0d7ff41b27784f2c8fb1bebc84a8"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
